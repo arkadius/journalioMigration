@@ -8,7 +8,7 @@ Script migrates logs recursive. It does it paraller in 5 threads. To change this
 
 ## Dependencies
 
-Script was tested on with Groovy v. 1.8.6.
+Script was tested with Groovy v. 1.8.6.
 
 ## Usage
 
