@@ -1,6 +1,6 @@
 # journalioMigration
 
-Groovy script that migrate Jornal.IO logs between versions.
+Groovy script that migrates Jornal.IO logs between versions.
 
 Currently it supports migration from 1.2 format version to 1.3 format.
 
@@ -8,7 +8,7 @@ Script migrates logs recursive. It does it paraller in 5 threads. To change this
 
 ## Dependencies
 
-Script was tested on with Groovy v. 1.8.6.
+Script was tested with Groovy v. 1.8.6.
 
 ## Usage
 
